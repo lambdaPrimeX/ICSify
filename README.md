@@ -103,17 +103,14 @@ END:VCALENDAR
 ```
 
 # Contributing
-Want to help improve ICSify? Contributions are welcome!
-- Simply create an issue with id `CONT-[Username]-[#]`
+Want to help improve ICSify? Contributions are welcome!!
+- Simply create an issue with id `CONT-[Username]-[Contribution No.]`
 - Fork Project
-- Make modification
-- Create merge to `dev` for source repository
-
-Fork the repository
-Create a new branch (git checkout -b issue-name)
-Commit your changes (git commit -m "feat: new feature")
-Push to your branch (git push origin issue-name)
-Open a Pull Request
+- Create a new branch (git checkout -b issue-name)
+- Commit your changes (git commit -m "feat: new feature")
+- Push to your branch (git push origin issue-name)
+- Open a Pull Request / Create merge to `dev` for source repository
+  - Merge Request name should be issue ID
 
 # License
 This project is licensed under the MIT License.
