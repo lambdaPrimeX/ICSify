@@ -7,13 +7,12 @@ Google Calendar.
 # LOGO HERE
 
 # Features
-[x] Command-line friendly and easy to use
-[x] Convert CSV files into ICS format effortlessly
-[x] Supports custom date and time formats
-[x] Handles attribute details like Subject, Start Date, Start Time, End Date,
-Location, Description,
-[x] Handles recurrences
-[x] Open-source and community-driven
+- [x] Command-line friendly and easy to use
+- [x] Convert CSV files into ICS format effortlessly
+- [x] Supports custom date and time formats
+- [x] Handles attribute details like Subject, Start Date, Start Time, End Date, Location, Description,
+- [x] Handles recurrences`
+- [x] Open-source and community-driven
 
 # Installation
 sh
