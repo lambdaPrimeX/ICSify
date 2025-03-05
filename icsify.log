@@ -1,0 +1,11 @@
+INFO:__main__:test message
+INFO:__main__:test message
+INFO:__main__:test message
+INFO:__main__:Error: invalid filetype. Must be `.csv`
+INFO:__main__:Error: invalid filetype. Must be `.csv`
+INFO:__main__:Error: invalid filetype. Must be `.csv`
+INFO:__main__:Error: invalid filetype. Must be `.csv`
+INFO:__main__:Error: invalid filetype. Must be `.csv`,100
+INFO:__main__:Error: invalid filetype. Must be `.csv`,100
+INFO:__main__:Error: too many arguments given. Must be equal to 2.
+INFO:__main__:Error: too many arguments given. Must be equal to 2.
