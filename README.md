@@ -3,7 +3,7 @@
 <!-- # ICSify <span style="display: inline-block; float: right;"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></span> -->
 
 <a href="https://github.com/lambdaPrimeX/icsify">
-    <img src="./icsify_dark_logo.png" alt="ICSify logo" title="icsify" align="right" height="80" />
+    <img src="./icsify_dark_logo.png" alt="ICSify logo" title="icsify" align="right" height="70" />
 </a>
 
 # ICSify
