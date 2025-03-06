@@ -2,6 +2,13 @@
 <!-- <h1>ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" style="float: right; width: 50px;"></h1> -->
 # ICSify <span style="display: inline-block; float: right;"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></span>
 
+<table width="100%">
+  <tr>
+    <td><h1>ICSify</h1></td>
+    <td align="right"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></td>
+  </tr>
+</table>
+
 
 ICSify – Turn Your CSV into Calendar Magic!
 A simple and efficient tool to convert CSV files into ICS calendar files for
