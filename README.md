@@ -1,11 +1,13 @@
-# ICSify
+<!-- # ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" width="50"> -->
+<h1>ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" style="float: right; width: 50px;"></h1>
+
 
 ICSify – Turn Your CSV into Calendar Magic!
 A simple and efficient tool to convert CSV files into ICS calendar files for
 Google Calendar.
 
-![ICSify Logo Dark Mode](./icsify_dark_logo.png)
-![ICSify Logo Light Mode](./icsify_light_logo.png)
+<!-- ![ICSify Logo Dark Mode](./icsify_dark_logo.png) -->
+<!-- ![ICSify Logo Light Mode](./icsify_light_logo.png) -->
 
 
 # Features
@@ -17,12 +19,10 @@ Google Calendar.
 - [x] Open-source and community-driven
 
 # Installation
-sh
-Copy
-Edit
-pip install icsify  # If implemented in Python
+pip install icsify  # If using python Python
 # or
-cargo install icsify  # If implemented in Rust
+cargo install icsify  # If using Rust
+
 ### Usage
 
 ```bash
