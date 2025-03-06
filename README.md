@@ -4,7 +4,7 @@ ICSify – Turn Your CSV into Calendar Magic!
 A simple and efficient tool to convert CSV files into ICS calendar files for
 Google Calendar.
 
-# LOGO HERE
+![ICSify Logo](./icsify_logo.png)
 
 # Features
 - [x] Command-line friendly and easy to use
