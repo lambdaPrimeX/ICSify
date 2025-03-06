@@ -1,13 +1,19 @@
 <!-- # ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" width="50"> -->
 <!-- <h1>ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" style="float: right; width: 50px;"></h1> -->
-# ICSify <span style="display: inline-block; float: right;"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></span>
+<!-- # ICSify <span style="display: inline-block; float: right;"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></span> -->
 
-<table width="100%">
+<a href="https://github.com/lambdaPrimeX/icsify">
+    <img src="./icsify_dark_logo.png" alt="ICSify logo" title="icsify" align="right" height="60" />
+</a>
+
+# ICSify
+
+<!-- <table width="100%">
   <tr>
     <td><h1>ICSify</h1></td>
     <td align="right"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></td>
   </tr>
-</table>
+</table> -->
 
 
 ICSify – Turn Your CSV into Calendar Magic!
