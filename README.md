@@ -1,5 +1,6 @@
 <!-- # ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" width="50"> -->
-<h1>ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" style="float: right; width: 50px;"></h1>
+<!-- <h1>ICSify <img src="./icsify_dark_logo.png" alt="ICSify Logo" style="float: right; width: 50px;"></h1> -->
+# ICSify <span style="display: inline-block; float: right;"><img src="./icsify_dark_logo.png" alt="ICSify Logo" width="70"></span>
 
 
 ICSify – Turn Your CSV into Calendar Magic!
